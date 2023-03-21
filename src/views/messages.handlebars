@@ -1,0 +1,28 @@
+    <div class="container-fluid mt-3">
+        <h2>Chat</h2>
+
+        <div id="messages" class="chatArea" style="
+        overflow: scroll;
+        height: 300px;
+        width: 850px;
+        margin-bottom: 50px;
+        border-style: solid;
+        border-color: black;
+        border-width: 5px;">
+            {{#each messages}}
+                <p  class="chat__email" style="color: blue;
+                                                font-weight: bold;">Server : {{email}}</p>
+                <p  class="chat__fecha" style="color: brown;">{{timestamp}}:</p>
+                <p  class="chat__texto" style="color: green;
+                                                font-style: italic;
+                                                margin-left: 10px;"> {{body}}</p>
+            {{/each}}
+        </div>
+
+        <form class="form-inline" action="/mensajes" method="post" role="form">
+            <input type="email"name='email' id="username" class="form-control my-2 mr-2" placeholder="Email">
+            <input type="text" name="body" id="texto" class="form-control my-2 mr-2" placeholder="Cuéntanos algo...">
+            <input class="btn btn-primary my-2" type="submit" value="Enviar!">
+        </form>
+        
+    </div>

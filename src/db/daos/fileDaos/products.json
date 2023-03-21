@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Assassins Creed Valhala",
+    "price": "15000",
+    "platform": "playstation",
+    "category": "videojuego",
+    "description": "juego de aventura y exploracion",
+    "code": "115415111445",
+    "stock": "14",
+    "url": "http://localhost:8080/public/1679180893386-assassinsCreed.webp.webp",
+    "id": 1
+  },
+  {
+    "name": "consola ps4",
+    "price": "75000",
+    "platform": "playstation",
+    "category": "consola",
+    "description": "consola de videojuegos slim de 1tb de memoria",
+    "code": "445454545455445",
+    "stock": "5",
+    "url": "http://localhost:8080/public/1679181062529-ps4.webp.webp",
+    "id": 2
+  },
+  {
+    "name": "Far Cry 6",
+    "price": "12000",
+    "platform": "xbox",
+    "category": "videojuego",
+    "description": "shooter en primera persona ",
+    "code": "4545454448468465",
+    "stock": "12",
+    "url": "http://localhost:8080/public/1679181122422-farcry6Xbox.webp.webp",
+    "id": 3
+  },
+  {
+    "name": "Kirby",
+    "price": "13000",
+    "platform": "nintendo",
+    "category": "videojuego",
+    "description": "juego de aventura y exploracion",
+    "code": "14545454545454",
+    "stock": "6",
+    "url": "http://localhost:8080/public/1679181217724-kirby.webp.webp",
+    "id": 4
+  },
+  {
+    "name": "Callisto Protocol",
+    "price": "15000",
+    "platform": "pc",
+    "category": "videojuego",
+    "description": "shooter en tercera persona y terror",
+    "code": "144434343434342",
+    "stock": "5",
+    "url": "http://localhost:8080/public/1679181378214-callistocoleccion.webp.webp",
+    "id": 5
+  },
+  {
+    "name": "ps plus gift card",
+    "price": "35000",
+    "platform": "playstation",
+    "category": "gift card",
+    "description": "tarjeta e dolares para cuenta USA",
+    "code": "324343434324234",
+    "stock": "12",
+    "url": "http://localhost:8080/public/1679181446147-psplus.webp.webp",
+    "id": 6
+  },
+  {
+    "name": "Horizon Forbbiden West",
+    "price": "12000",
+    "platform": "playstation",
+    "category": "videojuego",
+    "description": "juego de aventura y exploracion",
+    "code": "233232132132",
+    "stock": "4",
+    "url": "http://localhost:8080/public/1679181755132-horizon.webp.webp",
+    "id": 7
+  },
+  {
+    "name": "Nintendo Switch",
+    "price": "120000",
+    "platform": "nintendo",
+    "category": "consola",
+    "description": "consola de videojuegos nintendo de 1tb",
+    "code": "3434343432434",
+    "stock": "6",
+    "url": "http://localhost:8080/public/1679182009561-nintendoSwitch.webp.webp",
+    "id": 8
+  },
+  {
+    "name": "The last of us 2",
+    "price": "13000",
+    "platform": "playstation",
+    "category": "videojuego",
+    "description": "juego de aventura y exploracion",
+    "code": "434343434324",
+    "stock": "5",
+    "url": "http://localhost:8080/public/1679182207987-lastofusps4.webp.webp",
+    "id": 9
+  }
+]

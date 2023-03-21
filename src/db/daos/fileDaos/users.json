@@ -1,0 +1,22 @@
+[
+  {
+    "username": "fede",
+    "password": "$2b$10$0aGXlvO1ng9yiK458VckbegLqn5OqCn1UqK0YXrwoAvQRdBFJ5spW",
+    "email": "sasa@xasa",
+    "direction": "sasasa",
+    "age": "45",
+    "cel": "454848484",
+    "image": "http://localhost:8080/public/1679257983062-fondoGamer.jpg.jpeg",
+    "id": 1
+  },
+  {
+    "username": "orne",
+    "password": "$2b$10$UYZxj4upTGapp5MzkMibiezmkcKfNyNKvpmml8G8a6maMeYPeLdk6",
+    "email": "sasaas@sasasas",
+    "direction": "sas4a54sa54sa",
+    "age": "35",
+    "cel": "265566565",
+    "image": "http://localhost:8080/public/1679267749252-Mama tarjeta.jpg.jpg.jpeg",
+    "id": 2
+  }
+]

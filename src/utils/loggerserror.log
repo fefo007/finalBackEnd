@@ -1,0 +1,378 @@
+[2023-02-20T17:40:55.993] [ERROR] default - error al cargar el archivo TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received 'utf-8'
+[2023-02-20T17:48:15.891] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T17:50:24.327] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T17:51:51.794] [ERROR] default - error al cargar el archivo TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received 'utf-8'
+[2023-02-20T17:53:20.074] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:25:57.043] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:25:57.047] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:25:57.048] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T18:25:57.048] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:25:57.049] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:25:57.049] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T18:25:57.049] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:27:09.866] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:27:09.871] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:27:09.871] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T18:27:09.871] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:27:09.872] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:27:09.872] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T18:27:09.872] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:29:30.686] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:29:30.691] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:29:30.691] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T18:29:30.691] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:29:30.692] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:29:30.692] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T18:29:30.692] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:50:22.748] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:50:22.753] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:50:22.753] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:51:14.001] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:51:14.005] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:51:14.005] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:51:37.157] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:51:37.161] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:51:37.161] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:53:23.386] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:53:23.390] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:53:23.390] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:54:09.973] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:54:09.977] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:54:09.977] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T18:54:55.310] [ERROR] default - error al cargar el archivo TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received 'utf-8'
+[2023-02-20T18:54:55.315] [ERROR] default - error al cargar el archivo TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received 'utf-8'
+[2023-02-20T18:54:55.315] [ERROR] default - error al cargar el archivo TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received 'utf-8'
+[2023-02-20T19:03:13.806] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:03:13.810] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:03:13.810] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:03.571] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:03.576] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:03.576] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:13.829] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:13.832] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:13.833] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:46.603] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:46.607] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:04:46.608] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected token u in JSON at position 0
+[2023-02-20T19:49:10.362] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-20T19:49:10.363] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-20T19:49:10.363] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T19:56:35.484] [ERROR] default - error al crear un carrito TypeError: Cannot read properties of undefined (reading 'id')
+[2023-02-20T19:57:48.371] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-20T19:57:48.372] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-20T19:57:48.373] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-20T20:00:32.951] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-20T20:00:32.952] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-20T20:00:32.952] [ERROR] default - error al cargar el archivo TypeError: Cannot read properties of undefined (reading 'find')
+[2023-02-21T17:11:19.114] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-02-21T17:44:09.671] [ERROR] default - error de lectura Error: ENOENT: no such file or directory, open 'products.txt'
+[2023-02-21T17:44:51.504] [ERROR] default - error de lectura Error: ENOENT: no such file or directory, open 'products.json'
+[2023-02-21T17:46:06.691] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'push')
+[2023-02-21T17:47:49.670] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'push')
+[2023-02-21T17:48:23.209] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'push')
+[2023-02-21T17:52:25.341] [ERROR] default - error de lectura ReferenceError: products is not defined
+[2023-02-21T17:52:56.453] [ERROR] default - error de lectura ReferenceError: arrayFiltrado is not defined
+[2023-02-21T17:57:52.560] [ERROR] default - error al cargar el archivo:TypeError: carts.find is not a function
+[2023-02-21T17:57:52.562] [ERROR] default - error de lectura ReferenceError: productArray is not defined
+[2023-02-21T17:58:13.395] [ERROR] default - error al cargar el archivo:TypeError: carts.find is not a function
+[2023-02-21T17:58:13.397] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-02-21T17:59:30.835] [ERROR] default - error al cargar el archivo:TypeError: carts.find is not a function
+[2023-02-21T17:59:30.837] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-02-21T18:00:36.619] [ERROR] default - error al crear un carrito TypeError: carts.push is not a function
+[2023-02-21T18:04:06.872] [ERROR] default - error al cargar el archivo:TypeError: carts.find is not a function
+[2023-02-21T18:04:06.873] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-02-21T18:04:31.733] [ERROR] default - error al cargar el archivo:TypeError: carts.find is not a function
+[2023-02-21T18:04:31.734] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-02-21T18:04:51.565] [ERROR] default - error al cargar el archivo:TypeError: carts.find is not a function
+[2023-02-21T18:04:51.566] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-02-21T18:10:00.449] [ERROR] default - error de lectura ReferenceError: cart is not defined
+[2023-02-23T09:42:23.263] [ERROR] default - FirebaseAppError: The default Firebase app already exists. This means you called initializeApp() more than once without providing an app name as the second argument. In most cases you only need to call initializeApp() once. But if you do want to initialize multiple apps, pass a second argument to initializeApp() to give each app a unique name.
+    at AppStore.initializeApp (D:\Back-End\19\node_modules\firebase-admin\lib\app\lifecycle.js:41:23)
+    at FirebaseNamespaceInternals.initializeApp (D:\Back-End\19\node_modules\firebase-admin\lib\app\firebase-namespace.js:43:35)
+    at FirebaseNamespace.initializeApp (D:\Back-End\19\node_modules\firebase-admin\lib\app\firebase-namespace.js:246:30)
+    at Object.<anonymous> (D:\Back-End\19\src\db\daos\fireBaseDaos\FireBaseProd.js:8:11)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errorInfo: {
+    code: 'app/duplicate-app',
+    message: 'The default Firebase app already exists. This means you called initializeApp() more than once without providing an app name as the second argument. In most cases you only need to call initializeApp() once. But if you do want to initialize multiple apps, pass a second argument to initializeApp() to give each app a unique name.'
+  },
+  codePrefix: 'app'
+}
+[2023-02-23T09:42:23.266] [ERROR] default - FirebaseAppError: The default Firebase app already exists. This means you called initializeApp() more than once without providing an app name as the second argument. In most cases you only need to call initializeApp() once. But if you do want to initialize multiple apps, pass a second argument to initializeApp() to give each app a unique name.
+    at AppStore.initializeApp (D:\Back-End\19\node_modules\firebase-admin\lib\app\lifecycle.js:41:23)
+    at FirebaseNamespaceInternals.initializeApp (D:\Back-End\19\node_modules\firebase-admin\lib\app\firebase-namespace.js:43:35)
+    at FirebaseNamespace.initializeApp (D:\Back-End\19\node_modules\firebase-admin\lib\app\firebase-namespace.js:246:30)
+    at Object.<anonymous> (D:\Back-End\19\src\db\daos\fireBaseDaos\FireBaseCart.js:9:11)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18) {
+  errorInfo: {
+    code: 'app/duplicate-app',
+    message: 'The default Firebase app already exists. This means you called initializeApp() more than once without providing an app name as the second argument. In most cases you only need to call initializeApp() once. But if you do want to initialize multiple apps, pass a second argument to initializeApp() to give each app a unique name.'
+  },
+  codePrefix: 'app'
+}
+[2023-02-23T11:23:59.821] [ERROR] default - error de escritura
+[2023-02-23T11:39:33.510] [ERROR] default - error al cargar el archivo ReferenceError: object is not defined
+[2023-02-23T11:40:30.933] [ERROR] default - error al cargar el archivo ReferenceError: object is not defined
+[2023-02-23T17:38:58.026] [ERROR] default - no se pudo cargar el archivo[object Object]
+[2023-02-23T17:40:25.771] [ERROR] default - no se pudo cargar el archivo[object Object]
+[2023-02-23T17:47:24.815] [ERROR] default - usuario no encontrado
+[2023-02-23T17:47:52.858] [ERROR] default - usuario no encontrado
+[2023-02-23T17:55:50.983] [ERROR] default - usuario no encontrado
+[2023-02-23T17:56:08.865] [ERROR] default - usuario no encontrado
+[2023-02-23T17:56:28.006] [ERROR] default - usuario no encontrado
+[2023-02-23T17:59:04.239] [ERROR] default - usuario no encontrado
+[2023-02-23T18:06:25.009] [ERROR] default - no se pudo cargar el archivo[object Object]
+[2023-02-23T18:16:57.016] [ERROR] default - no se pudo cargar el archivo[object Object]
+[2023-02-23T18:18:34.475] [ERROR] default - no se pudo cargar el archivo[object Object]
+[2023-02-23T18:19:30.536] [ERROR] default - no se pudo cargar el archivo{"error":{}}
+[2023-02-23T18:20:08.416] [ERROR] default - no se pudo cargar el archivo{}
+[2023-02-23T18:23:18.263] [ERROR] default - no se pudo cargar el archivo TypeError: users.find is not a function
+[2023-02-23T18:24:38.282] [ERROR] default - no se pudo cargar el archivo TypeError: users.data is not a function
+[2023-02-23T18:26:45.401] [ERROR] default - usuario no encontrado
+[2023-02-23T18:27:46.036] [ERROR] default - no se pudo cargar el archivo TypeError: users.where is not a function
+[2023-02-23T18:32:33.390] [ERROR] default - usuario no encontrado
+[2023-02-23T18:33:48.916] [ERROR] default - no se pudo cargar el archivo TypeError: user.data is not a function
+[2023-02-23T18:34:22.633] [ERROR] default - no se pudo cargar el archivo TypeError: user.data is not a function
+[2023-02-23T18:34:52.637] [ERROR] default - no se pudo cargar el archivo TypeError: user.data is not a function
+[2023-02-23T18:37:28.716] [ERROR] default - no se pudo cargar el archivo TypeError: user.doc is not a function
+[2023-02-23T18:37:44.994] [ERROR] default - no se pudo cargar el archivo TypeError: user.docs is not a function
+[2023-02-23T18:39:36.221] [ERROR] default - no se pudo cargar el archivo TypeError: user.data is not a function
+[2023-02-23T18:52:46.181] [ERROR] default - error al cargar carrito: ReferenceError: data is not defined
+[2023-02-23T18:59:37.449] [ERROR] default - error al subir producto al carrito: TypeError: this.collection is not a function
+[2023-02-23T19:02:56.274] [ERROR] default - error al subir producto al carrito: Error: Value for argument "data" is not a valid Firestore document. Input is not a plain JavaScript object.
+[2023-02-23T19:05:40.127] [ERROR] default - error al subir producto al carrito: Error: Value for argument "data" is not a valid Firestore document. Couldn't serialize object of type "QueryDocumentSnapshot" (found in field "products.`0`"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).
+[2023-02-23T19:09:26.160] [ERROR] default - error al borrar producto del carrito: TypeError: Assignment to constant variable.
+[2023-02-23T19:10:07.013] [ERROR] default - error al borrar producto del carrito: Error: Value for argument "data" is not a valid Firestore document. Input is not a plain JavaScript object.
+[2023-02-26T17:39:57.927] [ERROR] default - error al borrar producto del carrito: Error: Value for argument "data" is not a valid Firestore document. Input is not a plain JavaScript object.
+[2023-02-26T17:41:46.513] [ERROR] default - error al borrar producto del carrito: TypeError: arrayFiltrado.data is not a function
+[2023-02-26T18:08:42.548] [ERROR] default - error de escritura
+[2023-02-26T18:26:02.073] [ERROR] default - error al crear el carrito: ValidationError: id: Cast to Number failed for value "22i3e900ega" (type string) at path "id"
+[2023-02-26T18:26:48.200] [ERROR] default - error al crear el carrito: ValidationError: id: Cast to Number failed for value "NaN" (type number) at path "id"
+[2023-02-26T18:27:32.654] [ERROR] default - error al crear el carrito: TypeError: NaN is not a function
+[2023-02-26T18:27:56.213] [ERROR] default - error al crear el carrito: ValidationError: id: Cast to Number failed for value "NaN" (type number) at path "id"
+[2023-02-26T18:48:43.823] [ERROR] default - error al actualizar producto: TypeError: Cannot create property '__v' on string '63fbcba239f9376fabe12506'
+[2023-02-26T18:49:50.295] [ERROR] default - error al actualizar producto: TypeError: Cannot use 'in' operator to search for 'strict' in 63fbcba239f9376fabe12506
+[2023-02-26T18:50:30.599] [ERROR] default - error al actualizar producto: TypeError: Cannot create property '__v' on string '63fbcba239f9376fabe12506'
+[2023-02-26T18:51:57.687] [ERROR] default - error al guardar en el carrito: ObjectParameterError: Parameter "obj" to Document() must be an object, got products
+[2023-02-26T18:54:01.807] [ERROR] default - error al guardar en el carrito: ObjectParameterError: Parameter "obj" to Document() must be an object, got products
+[2023-02-26T18:56:42.920] [ERROR] default - error al guardar en el carrito: TypeError: 2nd argument to `Model` must be a POJO or string, **not** a schema. Make sure you're calling `mongoose.model()`, not `mongoose.Model()`.
+[2023-02-27T18:49:04.036] [ERROR] default - error al guardar en el carrito: TypeError: Cannot read properties of undefined (reading 'push')
+[2023-02-27T18:50:59.068] [ERROR] default - error al guardar en el carrito: ReferenceError: saveInCart is not defined
+[2023-02-27T19:40:30.578] [ERROR] default - error al guardar en el carrito: ReferenceError: products is not defined
+[2023-02-27T19:40:50.253] [ERROR] default - error al guardar en el carrito: ReferenceError: products is not defined
+[2023-02-27T20:23:59.479] [ERROR] default - error al borrar del carrito: ReferenceError: filterProds is not defined
+[2023-02-27T20:28:14.003] [ERROR] default - error al borrar del carrito: ReferenceError: idProduc is not defined
+[2023-03-01T20:22:19.424] [ERROR] default - error al cargar el archivo Error: ENOENT: no such file or directory, open 'D:\Back-End\19\src\db\daos\fileDaos/messages.json'
+[2023-03-03T19:04:53.561] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:05:39.877] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:13:30.407] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:17:13.557] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:18:23.538] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:19:21.102] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:25:43.410] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:27:20.703] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:28:47.045] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:30:11.082] [ERROR] default - error al guardar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:32:13.702] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:34:06.577] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:37:09.777] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:37:30.907] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:38:30.284] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-03T19:51:46.417] [ERROR] default - error al actualizar el archivo TypeError: Cannot read properties of undefined (reading 'id')
+[2023-03-03T20:06:37.306] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:10:48.640] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:11:45.244] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:12:07.806] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:12:25.251] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:15:09.920] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:15:48.514] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:16:32.728] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:17:31.094] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:17:59.467] [ERROR] default - error de escritura[object Object]
+[2023-03-03T20:22:15.938] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:27:20.778] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:29:19.301] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:32:09.265] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:36:32.372] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:46:27.904] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:47:07.397] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:47:25.801] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:48:09.818] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:48:31.326] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:48:55.409] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:50:11.082] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:51:36.632] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-03T20:54:58.475] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-06T19:02:51.636] [ERROR] default - error al actualizar usuario[object Object]
+[2023-03-06T19:06:43.691] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:13:11.015] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:15:15.629] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:17:03.470] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:18:57.950] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:20:03.377] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:23:14.996] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:25:14.158] [ERROR] default - error al borrar usuario: CastError: Cast to ObjectId failed for value "MevsWo9M8FVIQ3j9aKug" (type string) at path "_id" for model "usuarios"
+[2023-03-06T19:25:24.178] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:25:37.698] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:25:54.300] [ERROR] default - error al borrar usuario[object Object]
+[2023-03-06T19:30:24.172] [ERROR] default - error al guardar usuario: ValidationError: imagen: Path `imagen` is required., celular: Path `celular` is required., edad: Path `edad` is required., residencia: Path `residencia` is required., direccion: Path `direccion` is required.
+[2023-03-06T19:31:51.265] [ERROR] default - error al guardar usuario: ValidationError: direccion: Path `direccion` is required.
+[2023-03-06T19:32:12.504] [ERROR] default - error al guardar usuario: TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-06T19:32:56.536] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: username_1 dup key: { username: "fede" }
+[2023-03-06T19:33:18.517] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:34:31.432] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:36:16.168] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:38:24.281] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: username_1 dup key: { username: "pepe" }
+[2023-03-06T19:42:13.587] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: username_1 dup key: { username: "pepe" }
+[2023-03-06T19:43:22.893] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:43:56.259] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:44:14.856] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:45:03.501] [ERROR] default - error al guardar usuario: ValidationError: direction: Path `direction` is required.
+[2023-03-06T19:45:24.223] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:45:54.927] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:50:24.470] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T19:52:12.824] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: username_1 dup key: { username: "fede" }
+[2023-03-06T19:52:30.024] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T20:00:20.538] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T20:01:32.186] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T20:02:58.290] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T20:04:17.690] [ERROR] default - error al guardar usuario: MongoServerError: E11000 duplicate key error collection: ecommerce.usuarios index: direccion_1 dup key: { direccion: null }
+[2023-03-06T20:08:25.362] [ERROR] default - error al obtener usuario: TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-06T20:11:54.091] [ERROR] default - error al obtener usuario: TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-06T20:13:15.441] [ERROR] default - error al actualizar usuario: MongoServerError: E11000 duplicate key error collection: 63c7e1a799a3a769eb997c49_ecommerce.usuarios index: username_1 dup key: { username: "pepe" }
+[2023-03-06T20:14:00.504] [ERROR] default - error al actualizar usuario: MongoServerError: E11000 duplicate key error collection: 63c7e1a799a3a769eb997c49_ecommerce.usuarios index: email_1 dup key: { email: "dsds54ds4d" }
+[2023-03-06T20:14:14.397] [ERROR] default - error al actualizar usuario: TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+[2023-03-06T20:18:04.343] [ERROR] default - error al actualizar usuario: TypeError: Cannot read properties of null (reading '_id')
+[2023-03-06T20:18:43.389] [ERROR] default - error al actualizar usuario: TypeError: Cannot read properties of null (reading '_id')
+[2023-03-06T20:20:24.419] [ERROR] default - error al actualizar usuario: TypeError: Cannot read properties of null (reading '_id')
+[2023-03-07T17:51:18.243] [ERROR] default - error de escritura:ValidationError: email: Path `email` is required., state: Path `state` is required., timestamp: Path `timestamp` is required., orderId: Path `orderId` is required., products: Path `products` is required.
+[2023-03-07T17:52:10.905] [ERROR] default - error de escritura:ValidationError: products: Cast to string failed for value "[ { pepe: 'sdsd', jeje: 'dsadds' } ]" (type Array) at path "products"
+[2023-03-07T18:01:01.993] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'object null' as it is null.
+[2023-03-07T18:01:35.761] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:04:26.819] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'object null' as it is null.
+[2023-03-07T18:05:18.461] [ERROR] default - error al cargar el archivo:CastError: Cast to ObjectId failed for value "5" (type number) at path "_id" for model "ordenes"
+[2023-03-07T18:16:19.096] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:17:06.732] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:17:20.225] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:17:49.419] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:17:58.861] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:18:16.494] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:19:41.767] [ERROR] default - error al cargar el archivo:ReferenceError: asUserDto is not defined
+[2023-03-07T18:21:22.207] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-07T18:23:58.224] [ERROR] default - error al cargar el archivo:TypeError: this.getAllOrders is not a function
+[2023-03-08T17:16:43.023] [ERROR] default - error al cargar el archivo:TypeError: order.find is not a function
+[2023-03-08T17:17:44.252] [ERROR] default - error al cargar el archivo:TypeError: order.find is not a function
+[2023-03-08T17:20:40.090] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-08T17:22:48.297] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-08T17:30:46.156] [ERROR] default - error al guardar el archivo TypeError: newMessage is not iterable
+[2023-03-08T17:32:44.257] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'email' of 'undefined' as it is undefined.
+[2023-03-08T17:37:12.609] [ERROR] default - error de escritura:TypeError: Cannot destructure property 'email' of 'undefined' as it is undefined.
+[2023-03-08T17:39:51.227] [ERROR] default - error al cargar el archivo:ReferenceError: asOrderDto is not defined
+[2023-03-08T17:46:08.837] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'email' of 'undefined' as it is undefined.
+[2023-03-08T17:46:35.914] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'email' of 'undefined' as it is undefined.
+[2023-03-08T18:08:21.104] [ERROR] default - error al borrar el archivo:ReferenceError: asUserDto is not defined
+[2023-03-09T19:08:45.159] [ERROR] default - error de lectura TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-09T19:32:35.434] [ERROR] default - error al subir producto al carrito: TypeError: Cannot read properties of undefined (reading 'push')
+[2023-03-09T19:33:54.665] [ERROR] default - error al subir producto al carrito: TypeError: Cannot read properties of undefined (reading 'push')
+[2023-03-09T19:35:12.884] [ERROR] default - error al subir producto al carrito: TypeError: Cannot read properties of undefined (reading 'push')
+[2023-03-09T19:36:31.808] [ERROR] default - error al subir producto al carrito: ReferenceError: cartId is not defined
+[2023-03-09T19:38:34.170] [ERROR] default - error al borrar producto del carrito: TypeError: Cannot read properties of undefined (reading 'filter')
+[2023-03-09T19:49:49.197] [ERROR] default - error  al borrar el carrito: CastError: Cast to ObjectId failed for value "cf0i91961ff" (type string) at path "_id" for model "carritos"
+[2023-03-09T19:52:39.994] [ERROR] default - error al obtener el carrito: TypeError: cart.data is not a function
+[2023-03-09T19:55:36.111] [ERROR] default - error al guardar en el carrito: TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-09T19:56:26.807] [ERROR] default - error al guardar en el carrito: TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-09T19:58:12.222] [ERROR] default - error al guardar en el carrito: TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-10T20:02:26.749] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-10T20:04:10.169] [ERROR] default - error al cargar el archivo TypeError: produc is not iterable
+[2023-03-10T20:57:28.678] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'email' of 'undefined' as it is undefined.
+[2023-03-10T21:00:02.254] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'email' of 'undefined' as it is undefined.
+[2023-03-11T19:20:46.551] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-11T19:22:58.192] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-11T19:24:19.478] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-11T19:25:21.466] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-11T19:25:49.124] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'id' of 'undefined' as it is undefined.
+[2023-03-11T19:55:31.256] [ERROR] default - error al cargar el archivo:TypeError: orders.find is not a function
+[2023-03-11T19:57:53.560] [ERROR] default - error al cargar el archivo:TypeError: orders.find is not a function
+[2023-03-11T19:58:34.209] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:04:08.263] [ERROR] default - error al cargar el archivo:TypeError: orders.find is not a function
+[2023-03-11T20:05:23.432] [ERROR] default - error al cargar el archivo:TypeError: orders.find is not a function
+[2023-03-11T20:06:03.417] [ERROR] default - error al cargar el archivo:TypeError: orders.find is not a function
+[2023-03-11T20:08:44.706] [ERROR] default - error al cargar el archivo:TypeError: orders.find is not a function
+[2023-03-11T20:10:58.200] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:11:03.295] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:11:27.712] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:11:33.488] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:11:37.286] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:14:22.139] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:16:58.540] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:17:47.623] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:22:00.561] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:23:44.187] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:26:29.616] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:29:30.152] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:29:57.126] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:31:24.366] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:32:52.141] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T20:36:06.377] [ERROR] default - error al cargar el archivo:TypeError: Cannot destructure property 'products' of 'undefined' as it is undefined.
+[2023-03-11T21:05:38.171] [ERROR] default - error al crear un carrito TypeError: carts.push is not a function
+[2023-03-11T21:09:17.904] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:14:05.954] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:18:07.887] [ERROR] default - error de lectura TypeError: carts.find is not a function
+[2023-03-13T19:39:06.099] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:39:42.283] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:40:33.550] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:43:14.304] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:43:33.992] [ERROR] default - error de lectura TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-13T19:45:36.478] [ERROR] default - error al eliminar el producto del carrito:TypeError: Cannot read properties of undefined (reading 'products')
+[2023-03-16T19:23:30.111] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-16T19:39:40.732] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-17T19:39:13.418] [ERROR] default - error de escritura:ValidationError: timestamp: Cast to Number failed for value "17/3/2023, 19:39:13" (type string) at path "timestamp"
+[2023-03-17T19:51:21.015] [ERROR] default - error de escritura:ValidationError: timestamp: Cast to Number failed for value "17/3/2023, 19:51:20" (type string) at path "timestamp"
+[2023-03-18T18:33:48.482] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-03-18T18:35:13.678] [ERROR] default - error al cargar el archivo SyntaxError: Unexpected end of JSON input
+[2023-03-18T20:28:47.169] [ERROR] default - error al guardar producto: ValidationError: category: Path `category` is required., description: Path `description` is required., code: Path `code` is required., stock: Path `stock` is required.
+[2023-03-19T17:41:38.506] [ERROR] default - error de logeo
+[2023-03-19T17:45:47.195] [ERROR] default - error de logeo
+[2023-03-19T17:45:50.950] [ERROR] default - error de logeo
+[2023-03-19T17:45:55.213] [ERROR] default - error de logeo
+[2023-03-19T17:46:01.193] [ERROR] default - error de logeo
+[2023-03-19T17:46:03.652] [ERROR] default - error de logeo
+[2023-03-19T17:47:00.923] [ERROR] default - error de logeo
+[2023-03-19T18:51:44.805] [ERROR] default - error de logeo
+[2023-03-19T20:14:30.228] [ERROR] default - error de logeo
+[2023-03-19T20:15:00.336] [ERROR] default - error de logeo
+[2023-03-19T20:26:02.025] [ERROR] default - error de logeo
+[2023-03-19T20:27:36.795] [ERROR] default - error de logeo
+[2023-03-19T20:32:26.464] [ERROR] default - error de logeo
+[2023-03-19T20:35:09.854] [ERROR] default - error de logeo
+[2023-03-19T20:39:27.063] [ERROR] default - error de logeo
+[2023-03-19T20:42:10.006] [ERROR] default - error de logeo
+[2023-03-19T20:46:10.690] [ERROR] default - error de logeo
+[2023-03-20T17:46:24.955] [ERROR] default - error de logeo
+[2023-03-20T17:52:35.249] [ERROR] default - error de logeo
+[2023-03-20T17:54:01.253] [ERROR] default - error de logeo
+[2023-03-20T18:33:58.528] [ERROR] default - error de logeo
+[2023-03-20T18:38:30.332] [ERROR] default - error de logeo
+[2023-03-20T18:45:38.034] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-20T18:47:33.571] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-20T18:50:00.039] [ERROR] default - error de logeo
+[2023-03-20T18:50:17.454] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-20T18:57:35.557] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-20T18:58:50.478] [ERROR] default - error al cargar el archivo TypeError: Cannot destructure property 'name' of 'undefined' as it is undefined.
+[2023-03-20T20:05:06.164] [ERROR] default - Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+[2023-03-20T20:05:33.446] [ERROR] default - Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+[2023-03-20T20:21:36.005] [ERROR] default - error al obtener usuario: TypeError: Cannot destructure property 'username' of 'object null' as it is null.
+[2023-03-20T20:21:36.010] [ERROR] default - error de logeo
+[2023-03-20T20:28:54.734] [ERROR] default - error al obtener usuario: TypeError: Cannot destructure property 'username' of 'object null' as it is null.
+[2023-03-21T15:57:19.327] [ERROR] default - error de logeo
+[2023-03-21T16:01:46.563] [ERROR] default - error de logeo
